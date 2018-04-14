@@ -38,6 +38,6 @@ k_a = (B**a)%p
 k_b = (A**b)%p
 #print(k_a,k_b)
 k = k_a # Note that k = k_a = k_b
-print("Their secrete common key:",k)
+print("Their secret common key:",k)
 
 print()
